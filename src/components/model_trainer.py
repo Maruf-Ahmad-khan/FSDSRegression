@@ -11,7 +11,7 @@ import os
 
 @dataclass
 class ModelTrainerConfig:
-     trained_model_file_path = os.path.join('artifacts', 'preprocessor.pkl')
+     trained_model_file_path = os.path.join('artifacts', 'model.pkl')
      
 
 class ModelTrainer:
