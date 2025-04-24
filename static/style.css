@@ -1,6 +1,6 @@
 body {
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-     background-color: #eafaf1;
+     background-color: #cff0de;
      margin: 0;
      padding: 0;
      text-align: center;
@@ -17,7 +17,7 @@ body {
  }
  
  h1 {
-     color: #2e7d32;
+     color: #000601;
      margin-bottom: 20px;
  }
  
@@ -35,14 +35,14 @@ body {
  label {
      margin-top: 15px;
      font-weight: bold;
-     color: #2e7d32;
+     color: #010d01;
  }
  
  input, select {
      width: 80%;
      padding: 10px;
      margin-top: 8px;
-     border: 1px solid #a5d6a7;
+     border: 1px solid #000901;
      border-radius: 5px;
      background-color: #f9fff9;
      font-size: 16px;
@@ -50,14 +50,14 @@ body {
  
  input:focus, select:focus {
      outline: none;
-     border-color: #66bb6a;
-     box-shadow: 0 0 5px rgba(102, 187, 106, 0.5);
+     border-color: #010d01;
+     box-shadow: 0 0 5px rgba(69, 153, 74, 0.5);
  }
  
  .btn {
      margin-top: 25px;
      padding: 12px 20px;
-     background-color: #66bb6a;
+     background-color: #000000;
      color: white;
      border: none;
      border-radius: 5px;

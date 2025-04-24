@@ -5,4 +5,5 @@ ipykernel
 matplotlib
 seaborn
 scikit-learn
+streamlit
 -e .
